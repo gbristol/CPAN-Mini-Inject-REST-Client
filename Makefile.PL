@@ -13,6 +13,8 @@ requires 'JSON';
 requires 'REST::Client';
 requires 'Try::Tiny';
 requires 'URI';
+requires 'Moose';
+requires 'HTTP::Server::Simple';
 
 build_requires 'Test::More';
 
