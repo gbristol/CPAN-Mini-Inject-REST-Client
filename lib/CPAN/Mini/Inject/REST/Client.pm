@@ -14,7 +14,7 @@ CPAN::Mini::Inject::REST::Client - Command-line client for CPAN::Mini::Inject::R
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
